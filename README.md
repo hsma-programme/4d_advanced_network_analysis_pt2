@@ -7,7 +7,7 @@
 1. Lecture;
 2. Three code-alongs with the latter two using data (provided) to create graph visualisations. 
 
-## Setup for the course
+## Setup for this module
 
 You are provided with a conda environment (see `dash-cyto-environment.yml`) that you can use to create and install the necessary dependencies.  To install follow these instructions.
 
