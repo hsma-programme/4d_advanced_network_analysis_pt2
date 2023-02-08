@@ -16,7 +16,7 @@ You are provided with a conda environment (see `dash-cyto-environment.yml`) that
 2. Open an Anaconda Prompt (or terminal on Mac and Linux) in the same directory as the course files (downloaded in step above).  Run the following commands:
 
    * `conda update conda`
-   * `conda env create -f dash-cyto-environment.yml`
+   * `conda env create -f dash-cyto-win.yml`
 
 3. Conda will resolve the environment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `dash-cyto`.  You then need to activate it using the command below.
 
